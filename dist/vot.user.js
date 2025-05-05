@@ -26,6 +26,7 @@
 // @require        https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js
 // @require        https://gist.githubusercontent.com/ilyhalight/6eb5bb4dffc7ca9e3c57d6933e2452f3/raw/7ab38af2228d0bed13912e503bc8a9ee4b11828d/gm-addstyle-polyfill.js
 // @match          *://*.youtube.com/*
+// @match          *://*.learn.deeplearning.ai/*
 // @match          *://*.youtube-nocookie.com/*
 // @match          *://*.youtubekids.com/*
 // @match          *://*.twitch.tv/*
@@ -218,10 +219,10 @@
 // @version        1.9.5
 // @icon           https://translate.yandex.ru/icons/favicon.ico
 // @author         Toil, SashaXser, MrSoczekXD, mynovelhost, sodapng
-// @homepageURL    https://github.com/ilyhalight/voice-over-translation
-// @updateURL      https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js
-// @downloadURL    https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js
-// @supportURL     https://github.com/ilyhalight/voice-over-translation/issues
+// @homepageURL    https://github.com/ART17T/voice-over-test
+// @updateURL      https://raw.githubusercontent.com/ART17T/voice-over-test/blob/main/dist/vot.user.js
+// @downloadURL    https://raw.githubusercontent.com/ART17T/voice-over-test/blob/main/dist/vot.user.js
+// @supportURL     https://github.com/ART17T/voice-over-test/issues
 // ==/UserScript==
 
 /******/ (() => { // webpackBootstrap
